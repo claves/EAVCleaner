@@ -1,5 +1,5 @@
 {
-  "name": "hackathon/magento2-eavcleaner",
+  "name": "claves/magento2-eavcleaner",
   "description": "Purpose of this project is to check for different flaws that can occur due to EAV and provide cleanup functions.",
   "require": {
     "php": "~7.1|~7.2|~7.3",
